@@ -1,0 +1,21 @@
+https://archive.ics.uci.edu/ml/datasets/bank+marketing#
+Using the collected from existing customers, build a model that will help the marketing team identify potential customers who are relatively more likely to subscribe term deposit and thus increase their hit ratio.
+The dataset gives you information about a marketing campaign of a financial institution in which you will have to analyze in order to find ways to look for future strategies in order to improve future marketing campaigns for the bank.
+
+Attribute information
+age                      : (numeric)                                           
+job                      : type of job (categorical)
+marital                  : marital status (categorical)
+education                : categorical
+default                  : has credit in default?           
+housing                  :  has housing loan?
+loan                     : has personal loan?
+contact                  : contact communication type
+day                      : last contact day of the week
+month                    : last contact month of year
+duration                 : last contact duration, in seconds
+campaign                 : number of contacts performed 
+pdays                    : number of days that passed by
+previous                 : number of contacts performed
+poutcome                 : outcome of the previous marketing campaign
+deposit                  : No/yes
