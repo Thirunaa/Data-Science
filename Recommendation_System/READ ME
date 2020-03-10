@@ -1,2 +1,2 @@
   
-This is a content based recommendation system built using Td-Idf vectorizer and Linear Kernal.
+This is repo explains how Content based recommendation system (is built using Td-Idf vectorizer and Linear Kernal), Collabrative filtering is used to build a Movie Recommendation System 
